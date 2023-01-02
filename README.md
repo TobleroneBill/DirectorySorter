@@ -5,3 +5,6 @@ To use, either make a .bat file and refrence where the .py is saved, or just pla
 
 use this code to run the Bat:
 python "DRIVE:your/saved/file/directory/main.py"
+
+update:
+Added .bat template, and did some minor changes to the main file.
